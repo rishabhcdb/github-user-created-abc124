@@ -42,3 +42,15 @@ This project provides a simple Bootstrap webpage that allows users to retrieve a
 ## License
 
 This project is licensed under the MIT License.
+
+---
+
+## Round 2 Enhancement
+**Updated:** 2025-10-17
+
+### New Feature
+Show an aria-live alert #github-status that reports when a lookup starts, succeeds, or fails.
+
+### Implementation
+- Updated with new functionality
+- All Round 1 features remain intact
